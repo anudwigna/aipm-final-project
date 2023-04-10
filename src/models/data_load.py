@@ -10,12 +10,12 @@ def load_data():
 
 train_df, test_df = load_data()
 
-#Print the shape of the training and test dataframes to verify the number of rows and columns
-print(f"Training data shape: {train_df.shape}")
-print(f"Test data shape: {test_df.shape}")
+# #Print the shape of the training and test dataframes to verify the number of rows and columns
+# print(f"Training data shape: {train_df.shape}")
+# print(f"Test data shape: {test_df.shape}")
 
-#View the first few rows of the training data to check the data has been loaded properly
-print(train_df.head(5))
+# #View the first few rows of the training data to check the data has been loaded properly
+# print(train_df.head(5))
 
-#View the first few rows of the test data to check the data has been loaded properly
-print(test_df.head(5))
+# #View the first few rows of the test data to check the data has been loaded properly
+# print(test_df.head(5))
