@@ -2,6 +2,7 @@ from data_load import train_df
 import pandas as pd
 from sklearn.impute import SimpleImputer
 from scipy.special import boxcox1p
+from scipy.stats import skew
 
 def preprocess_train_data(train_df):
     '''
@@ -107,9 +108,11 @@ def transform_skewed_features(all_data):
     return all_data
 
 
-def one_hot_encode(all_data):
+def one_hot_encode(all_data,ntrain):
     '''
     One-hot encode categorical features using pandas get_dummies() function
     '''
     all_data = pd.get_dummies(all_data)
-    return all_data
+    train_df = all_data.iloc[:ntrain, :]
+    return all_data, train_df
+
