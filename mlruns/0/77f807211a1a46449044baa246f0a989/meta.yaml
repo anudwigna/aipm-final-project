@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77f807211a1a46449044baa246f0a989/artifacts
+end_time: 1681573180071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77f807211a1a46449044baa246f0a989
+run_name: rebellious-moose-839
+run_uuid: 77f807211a1a46449044baa246f0a989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681573178790
+status: 3
+tags: []
+user_id: abhi_

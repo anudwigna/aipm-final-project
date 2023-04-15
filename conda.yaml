@@ -1,0 +1,8 @@
+name: mlflow-example
+channels:
+  - defaults
+dependencies:
+  - python=3.10.9
+  - pip
+  - pip:
+      - mlflow==2.2.2
