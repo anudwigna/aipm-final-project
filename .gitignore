@@ -91,4 +91,7 @@ target/
 # Virtual Environment Folder
 venv
 
-.vs
+
+src/data/test.csv
+src/data/train.csv
+/.vs
