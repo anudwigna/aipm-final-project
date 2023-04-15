@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1be7fe1ea46f4798968b007e4342db02/artifacts
+end_time: 1681567574711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1be7fe1ea46f4798968b007e4342db02
+run_name: ambitious-shrew-598
+run_uuid: 1be7fe1ea46f4798968b007e4342db02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681567573666
+status: 4
+tags: []
+user_id: abhi_

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af3f046bde3d448cb020eb961d756253/artifacts
+end_time: 1681570536275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3f046bde3d448cb020eb961d756253
+run_name: bright-shark-520
+run_uuid: af3f046bde3d448cb020eb961d756253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681570535134
+status: 3
+tags: []
+user_id: abhi_
