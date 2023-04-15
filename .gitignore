@@ -90,3 +90,5 @@ target/
 
 # Virtual Environment Folder
 venv
+
+.vs
