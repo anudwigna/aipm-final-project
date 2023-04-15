@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6d25550e22b14116b9ee8609117a6674/artifacts
+end_time: 1681568511705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d25550e22b14116b9ee8609117a6674
+run_name: casual-mink-242
+run_uuid: 6d25550e22b14116b9ee8609117a6674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681568510595
+status: 3
+tags: []
+user_id: abhi_
